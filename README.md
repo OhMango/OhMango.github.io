@@ -1,6 +1,3 @@
-OhMango.github.io
-=============
-
 # Playable Ads Course
 
 What are playable Ads ?
