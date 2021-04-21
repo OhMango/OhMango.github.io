@@ -1,1 +1,3 @@
-# Playable Ads demo
+# Playable Ads course
+pixijs application
+
