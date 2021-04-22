@@ -9,6 +9,8 @@ Why playable ads?
 HTML5 interactive ads are great for immersing your audience and reducing churn rates
 
 
-
 ### PixiJS - Practice <br/>
+
 [![alt](PlinkoMaster/demo.jpg)](https://ohmango.github.io/PlinkoMaster/)
+
+[![alt](Spin for Cash/IceDragon/demo.jpg)](https://ohmango.github.io/PlinkoMaster/)
