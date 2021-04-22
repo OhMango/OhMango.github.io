@@ -11,6 +11,8 @@ HTML5 interactive ads are great for immersing your audience and reducing churn r
 
 ### PixiJS - Practice <br/>
 
-[![alt]PlinkoMaster](https://ohmango.github.io/PlinkoMaster/)
+[PlinkoMaster](https://ohmango.github.io/PlinkoMaster/)<br/>
+
 [![alt](PlinkoMaster/demo.jpg)](https://ohmango.github.io/PlinkoMaster/)
+
 [![alt](SpinforCash/IceDragon/demo.jpg)](https://ohmango.github.io/SpinforCash/IceDragon/)
