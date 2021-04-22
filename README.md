@@ -16,10 +16,9 @@ HTML5 interactive ads are great for immersing your audience and reducing churn r
 
 H5互动广告非常适合让观众沉浸其中，降低流失率。
 
-
 ### PixiJS - Practice <br/>
-
-[PlinkoMaster](https://ohmango.github.io/PlinkoMaster/)<br/>
+ 
+github io: [PlinkoMaster](https://ohmango.github.io/PlinkoMaster/) Alternate links: [PlinkoMaster](https://tplayable.s3.ap-east-1.amazonaws.com/test/caoyuquan/cyqPM.html)<br/>
 
 [![alt](PlinkoMaster/demo.jpg)](https://ohmango.github.io/PlinkoMaster/)
 
