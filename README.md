@@ -15,4 +15,6 @@ HTML5 interactive ads are great for immersing your audience and reducing churn r
 
 [![alt](PlinkoMaster/demo.jpg)](https://ohmango.github.io/PlinkoMaster/)
 
+[SpinforCash](https://ohmango.github.io/SpinforCash/IceDragon/)<br/>
+
 [![alt](SpinforCash/IceDragon/demo.jpg)](https://ohmango.github.io/SpinforCash/IceDragon/)
