@@ -18,7 +18,7 @@ H5互动广告非常适合让观众沉浸其中，降低流失率。
 
 ### PixiJS - Practice <br/>
  
-github io: [PlinkoMaster](https://ohmango.github.io/PlinkoMaster/) Alternate links: [PlinkoMaster](https://tplayable.s3.ap-east-1.amazonaws.com/test/caoyuquan/cyqPM.html)<br/>
+github io(io链接,国内被墙): [PlinkoMaster](https://ohmango.github.io/PlinkoMaster/)   Alternate links(香港备用链接): [PlinkoMaster](https://tplayable.s3.ap-east-1.amazonaws.com/test/caoyuquan/cyqPM.html)<br/>
 
 [![alt](PlinkoMaster/demo.jpg)](https://ohmango.github.io/PlinkoMaster/)
 
