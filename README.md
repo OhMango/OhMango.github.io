@@ -13,12 +13,13 @@ HTML5 interactive ads are great for immersing your audience and reducing churn r
 可玩广告是一种“先试用后下载”的广告形式，让用户在安装应用程序之前与应用程序的主要功能进行交互。
 
 为什么需要可玩广告？
-
+ 
 H5互动广告非常适合让观众沉浸其中，降低流失率。
 
-### PixiJS - shader <br/>
-
 ### PixiJS - Practice <br/>
+## shader
+
+### PixiJS - Product <br/> 
  
 github io(io链接): [PlinkoMaster](https://ohmango.github.io/PlinkoMaster/)   Alternate links(香港备用链接): [PlinkoMaster](https://tplayable.s3.ap-east-1.amazonaws.com/test/caoyuquan/cyqPM.html)<br/>
 
