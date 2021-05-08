@@ -37,6 +37,7 @@ github io(io链接): [RapMoney](https://ohmango.github.io/RapMoney/)   Alternate
 
 ### THREEJS - Product <br/> 
 
+Only touch drag is modified 只修改了touch下的拖动
 
 github io(io链接): [merga](https://ohmango.github.io/three-merga/)   Alternate links(香港备用链接): [merga](https://tplayable.s3.ap-east-1.amazonaws.com/test/caoyuquan/MSN_cyq_combinePort_1027.html)<br/>
 
